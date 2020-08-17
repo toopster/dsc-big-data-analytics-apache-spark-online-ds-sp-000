@@ -23,7 +23,7 @@ International Journal of Data Science and Analytics, November 2016, Volume 1, Is
 *"In this paper, we present a technical review on big data analytics using Apache Spark. This review focuses on the key components, abstractions and features of Apache Spark. More specifically, it shows what Apache Spark has for designing and implementing big data algorithms and pipelines for machine learning, graph analysis and stream processing. In addition, we highlight some research and development directions on Apache Spark for big data analytics."* - from the abstract. Here is an image from the paper giving a general overview of how the spark ecosystem functions:
 
 
-![](images/spark.gif)
+<img src='images/spark.gif'>
 
 You are expected to spend around 90 - 120 minutes reading this article. It is an excellent article and all the key aspects of spark computational environment are summarized and presented in an excellent manner. 
 
